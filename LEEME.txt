@@ -1,0 +1,6 @@
+ROYAL TREATS - página funcional
+
+La página fue reconstruida en HTML/CSS/JavaScript siguiendo el diseño de referencia, no usando la imagen como fondo.
+Incluye navegación, secciones, productos, selector de sabor, pedidos, WhatsApp, redes y diseño responsive.
+
+Para activar el cobro real con Wompi, abre index.html y reemplaza WOMPI_CHECKOUT_URL="" por el enlace de checkout real de la cuenta Wompi.
